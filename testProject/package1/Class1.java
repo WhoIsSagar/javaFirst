@@ -14,7 +14,7 @@ public class Class1 {
 		int n3;
 	      float n4;
 	      String a1;
-
+	      Scanner obj = new Scanner(System.in); /* 
 	 
 	      System.out.println("Enter a string:");
 	      a1 = obj.nextLine(); /* Take string input and assign to variable */
